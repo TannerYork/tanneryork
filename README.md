@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **projects focused on environmental issues, projects focused on accessibility, projects that need backend developers, and projects having to do with interesting machine learning ideas.**
 
-- 🤝 I’m looking for help with **finding companies that aline with my interest.**
+- 🤝 I’m looking for help with **finding companies that align with my interest.**
 
 - 👨‍💻 All of my projects are available at [https://www.makeschool.com/portfolio/tanneryork](https://www.makeschool.com/portfolio/tanneryork)
 
