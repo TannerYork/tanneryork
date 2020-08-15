@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tanner</h1>
-<h3 align="center">A passionate data science / backend developer</h3>
+<h3 align="center">Data Scientist / Backend Engineer</h3>
 
 - 🔭 I’m currently working on **Boundri**
 
