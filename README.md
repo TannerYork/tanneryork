@@ -1,19 +1,17 @@
 <h1 align="center">Hi, I'm Tanner</h1>
 <h3 align="center">Software Engineer / Data Scientist</h3>
 
-- 🔭 I’m currently working on **Boundri - an app for the visually impaired**
+- 🔭 I’m currently working on **Boundri, RMend, and Raptor Maps Panel Defect Detector**
 
-- 🌱 I’m currently improving my **SQL and machine learning pipline skills**
+- 🌱 I’m currently improving my **SQL and machine learning pipeline skills**
 
-- 👯 I’m looking to collaborate on **projects focused on environmental issues, projects focused on accessibility, projects that need backend developers, and projects having to do with interesting machine learning ideas.**
+- 👯 I’m looking to collaborate on **projects that I can help/learn from that range from Machine Learning, Deep Learning, Backend Development, and DevOps**
 
-- 🤝 I’m looking for help with **finding companies that align with my interest.**
+- 🤝 I’m looking for help with **finding companies that align with my interest and goals.**
 
 - 👨‍💻 All of my big projects are available [here](https://www.makeschool.com/portfolio/tanneryork) and the rest of my projects (including the big) can be found in my github or the organizaions I contribute to and/or own.
 
-- 📝 I regulary write articles on [https://medium.com/@tannerwyork](https://medium.com/@tannerwyork)
-
-- 💬 Ask me about **Data Science, React, React Native, Swift, Firebase, Django**
+- 📝 I write articles on [https://medium.com/@tannerwyork](https://medium.com/@tannerwyork)
 
 - 📫 How to reach me **tannerwyork@gmail.com**
 
