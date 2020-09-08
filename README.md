@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **finding companies that align with my interest.**
 
-- 👨‍💻 All of my projects are available at [https://www.makeschool.com/portfolio/tanneryork](https://www.makeschool.com/portfolio/tanneryork)
+- 👨‍💻 All of my big projects are available [here](https://www.makeschool.com/portfolio/tanneryork) and the rest of my projects (including the big) can be found in my github or the organizaions I contribute to and/or own.
 
 - 📝 I regulary write articles on [https://medium.com/@tannerwyork](https://medium.com/@tannerwyork)
 
