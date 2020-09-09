@@ -2,21 +2,19 @@
 <h3 align="center">Software Engineer / Data Scientist</h3>
 
 - 🔭 I’m currently working on **Boundri, RMend, and Raptor Maps Panel Defect Detector**
-
 - 🌱 I’m currently improving my **SQL and machine learning pipeline skills**
-
-- 👯 I’m looking to collaborate on **projects that I can help/learn from that range from Machine Learning, Deep Learning, Backend Development, and DevOps**
-
+- 👯 I’m looking to collaborate with other **Data Scientist and Software Engineers**
 - 🤝 I’m looking for help with **finding companies that align with my interest and goals.**
-
-- 👨‍💻 All of my big projects are available [here](https://www.makeschool.com/portfolio/tanneryork) and the rest of my projects (including the big) can be found in my github or the organizaions I contribute to and/or own.
-
-- 📝 I write articles on [https://medium.com/@tannerwyork](https://medium.com/@tannerwyork)
-
+- 👨‍💻 My projects are available on my [portfolio](https://www.makeschool.com/portfolio/tanneryork), github, or the organizaions I contribute to and/or own.
+- 📝 I occasionally write articles on [medium](https://medium.com/@tannerwyork)
 - 📫 How to reach me **tannerwyork@gmail.com**
 
-### Frameworks
+### Languages and Tools
 <p align="left"> 
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/> 
+
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
