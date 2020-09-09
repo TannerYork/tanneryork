@@ -7,7 +7,7 @@
 - 👨‍💻 My projects are available in github and on my [portfolio](https://www.makeschool.com/portfolio/tanneryork)
 
 ### Connect with me:
-<a href="tannerwyork@gmail.com" target="blank">
+<a href="mailto:tannerwyork@gmail.com" target="blank">
   <img align="left" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="tanneryork" height="30" width="30" />
 </a>
 <a href="https://linkedin.com/in/tanneryork" target="blank">
