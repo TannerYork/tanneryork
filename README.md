@@ -17,6 +17,8 @@
   <img align="left" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@tannerwyork" height="30" width="30" />
 </a>
 
+<br>
+
 ### Languages and Tools:
 <p align="left"> 
   <img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
