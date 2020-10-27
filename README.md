@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tanner</h1>
 <h3 align="center">Software Engineer / Data Scientist</h3>
 
-- 🔭 I’m currently working on a [machine learing based IOS app](https://github.com/BOUNDRI)
+- 🔭 I’m currently working on Shepherde
 - 🌱 I’m currently improving my SQL, machine learning pipeline, and Devops skills
 - 👯 I’m looking to collaborate with other data scientist and software engineers
 - 👨‍💻 My projects are available in github and on my [portfolio](https://www.makeschool.com/portfolio/tanneryork)
