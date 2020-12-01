@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Shepherde
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate with other data scientist and software engineers
-- 👨‍💻 My projects are available in github and on my [portfolio](https://www.makeschool.com/portfolio/tanneryork)
+- 👨‍💻 My projects are available in github and on my [portfolio](https://www.makeschool.com/portfolio/tanner-york)
 
 ### Connect with me:
 <a href="mailto:tannerwyork@gmail.com" target="blank">
