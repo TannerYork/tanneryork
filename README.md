@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tanner</h1>
 <h3 align="center">Software Engineer / Data Scientist</h3>
 
-- 🔭 I’m currently working on Shepherde
+- 🔭 I’m currently working on R.Mend
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate with other data scientist and software engineers
 - 👨‍💻 My projects are available in github and on my [portfolio](https://www.makeschool.com/portfolio/tanner-york)
@@ -24,10 +24,12 @@
   <img title="Python" align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
   <img title="JavaScript" align="left" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
   <img title="Swift" align="left" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/> 
+  <img title="Swift" align="left" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/> 
 
   <img title="Bash" align="left" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   <img title="Git" align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img title="Docker" align="left" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="40" height="40"/> 
+  <img title="CircleCI" align="left" src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="docker" width="40" height="40"/> 
   <img title="Tensorflow" align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   <img title="Jupyter" align="left" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> 
   <img title="OpenCV" align="left" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
