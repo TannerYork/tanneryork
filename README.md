@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Data Scientist</h3>
 
 <!-- - 🌱 I’m currently learning -->
-- 🔭 I’m currently working on Zeta Apps
+<!-- - 🔭 I’m currently working on Nothing! -->
 - 👯 I’m looking to collaborate with other data scientist and software engineers
 - 👨‍💻 My projects are available in github and on my [portfolio](https://www.makeschool.com/portfolio/tanner-york)
 
