@@ -2,14 +2,11 @@
 <h3 align="center">Software Engineer | Data Scientist</h3>
 
 <!-- - 🌱 I’m currently learning -->
-<!-- - 🔭 I’m currently working on Nothing! -->
-- 👯 I’m looking to collaborate with other data scientist and software engineers
-- 👨‍💻 My projects are available in github and on my [portfolio](https://www.makeschool.com/portfolio/tanner-york)
+- 🔭 I’m currently working on OneNote at Microsoft!
+- 👯 I’m looking to collaborate with other software engineers and ML engineers
+- 👨‍💻 My projects are available in github
 
 ### Connect with me:
-<a href="mailto:tannerwyork@gmail.com" target="blank">
-  <img title="tannerwyork@gmail.com" align="left" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="tanneryork" height="30" width="30" />
-</a>
 <a href="https://linkedin.com/in/tanneryork" target="blank">
   <img title="tanneryork" align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="tanneryork" height="30" width="30" />
 </a>
