@@ -3,7 +3,7 @@
 
 <!-- - 🌱 I’m currently learning -->
 - 🔭 I’m currently working on OneNote at Microsoft!
-- 👯 I’m looking to collaborate with other software engineers and ML engineers
+<!-- - 👯 I’m looking to collaborate with other software engineers and ML engineers -->
 - 👨‍💻 My projects are available in github
 
 ### Connect with me:
@@ -31,7 +31,6 @@
   <img title="OpenCV" align="left" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   <img title="Django" align="left" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> 
   <img title="Flask" align="left" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  <img title="Google Cloud Platform" align="left" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
   <img title="Firebase" align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   <img title="Postgres" align="left" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
   <img title="Mongodb" align="left" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
