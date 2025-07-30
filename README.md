@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <!-- - 🌱 I’m currently learning -->
-- 🔭 I’m currently working on OneNote at Microsoft!
+- 🔭 I’m currently looking for my next learning opporunity/interest.
 <!-- - 👯 I’m looking to collaborate with other software engineers and ML engineers -->
 - 👨‍💻 My projects are available in github
 
